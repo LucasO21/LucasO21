@@ -2,6 +2,8 @@
 
 **`Analytics Professional`** **`Data Science`**  **`Machine Learning`**  **`Marketing Analytics`**
 
+![Views](https://komarev.com/ghpvc/?username=harshbg&color=yellow)
+
 I am an experienced analytics professional building/sharing expertise in all things related to Data Science, Machine Learning and Marketing Analytics.
 
 - 🌱 I’m currently learning technologies related to machine learning deployment using technologies such as R Shiny, Streamlit, FastAPI, Docker, AWS etc.

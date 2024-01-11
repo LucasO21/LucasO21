@@ -14,6 +14,9 @@ Learn more about my projects -
 
 - Personal Portfolio - <a href="https://lokwudishu.com/" target="_blank">Link.</a>
 
+- Open Source Contribution - <a href="https://business-science.github.io/pytimetk/" target="_blank">Link.</a>
+
+#
 
 <p align="left">
       <a href="https://github.com/LucasO21?tab=followers">

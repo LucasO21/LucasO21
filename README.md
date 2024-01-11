@@ -15,8 +15,6 @@ I am an experienced analytics professional building/sharing expertise in all thi
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/LucasO21?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/LucasO21?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LucasO21?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-      <a href="https://github.com/LucasO21?tab=views">
-          <img alt="profile views" title="Profile views on GitHub" src="https://badge-service-url.com/github/profile-views/your_username?color=blue&style=for-the-badge"/></a>
 
    </p>
 

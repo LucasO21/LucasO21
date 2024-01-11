@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Python" width="70px" style="padding-right:10px;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img align="left" alt="Python" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img align="left" alt="FastAPI" width="50px" style="padding-right:10px;" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/>
 <img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 <img align="left" alt="PostgreSQL" width="50px" style="padding-right:10px;" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>

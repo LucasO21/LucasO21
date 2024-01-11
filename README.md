@@ -1,6 +1,6 @@
 ### Lucas Okwudishu
 
-**`Analytics Professional`**
+**`Analytics Professional`** **`Data Science`**  **`Machine Learning`**  **`Marketing Analytics`**
 
 I am an experienced analytics professional building/sharing expertise in all things related to Data Science, Machine Learning and Marketing Analytics.
 

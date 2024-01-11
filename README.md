@@ -40,9 +40,7 @@ I am an experienced analytics professional building/sharing expertise in all thi
 
 ### 📊 Stats
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasO21&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaso21&show_icons=true&theme=radical)
 
 #
 

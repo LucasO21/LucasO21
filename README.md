@@ -16,7 +16,12 @@ Learn more about my projects -
 
 - Open Source Contribution - <a href="https://business-science.github.io/pytimetk/" target="_blank">Link.</a>
 
-#
+---
+
+
+### 📊 Repo Stats
+
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaso21&show_icons=true&theme=radical)
 
 <p align="left">
       <a href="https://github.com/LucasO21?tab=followers">
@@ -27,7 +32,7 @@ Learn more about my projects -
    </p>
 
 
----
+#
 
 
 ### 🧰 Languages and Tools
@@ -37,18 +42,11 @@ Learn more about my projects -
 <img align="left" alt="VSCODE" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img align="left" alt="FastAPI" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/>
 <img align="left" alt="Docker" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-<img align="left" alt="PostgreSQL" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<br style="clear: left;" />
 <img align="left" alt="DBT" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-<img align="left" alt="VSCODE" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
 <br />
 
 #
 
-### 📊 Stats
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaso21&show_icons=true&theme=radical)
-
-#
 

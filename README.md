@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="R" width="50px" style="padding-right:10px; padding-top:30px;" <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>"/>
+<img align="left" alt="R" width="50px" style="padding-right:10px; padding-top:30px;" src="https://code.iconify.design/3/3.1.0/iconify.min.js" />
 <img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain-wordmark.svg"/>
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
 <img align="left" alt="DBT" width="30px" style="padding-right:10px;" src="https://drive.google.com/drive/folders/14ZnY8_5zmh8igwrZpzjAa88Mb38yME-J"/>

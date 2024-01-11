@@ -4,8 +4,6 @@
 
 I am an experienced analytics professional building/sharing expertise in all things related to Data Science, Machine Learning and Marketing Analytics.
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning technologies related to machine learning deployment using technologies such as R Shiny, Streamlit, FastAPI, Docker, AWS etc.
 - 👯 I’m looking to collaborate on open source software/package development (R or Python).
 - 🤔 I’m looking for help with resources (such as hands on tutorials) to understand machine learning model building and deployment.

@@ -2,7 +2,6 @@
 
 **`Analytics Professional`** **`Data Science`**  **`Machine Learning`**  **`Marketing Analytics`**
 
-![Views](https://komarev.com/ghpvc/?username=harshbg&color=yellow)
 
 I am an experienced analytics professional building/sharing expertise in all things related to Data Science, Machine Learning and Marketing Analytics.
 
@@ -36,6 +35,14 @@ I am an experienced analytics professional building/sharing expertise in all thi
 <img align="left" alt="DBT" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
 <img align="left" alt="VSCODE" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <br />
+
+#
+
+### 📊 Stats
+
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucaso21&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
 

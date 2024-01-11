@@ -10,7 +10,7 @@ I am an experienced analytics professional building/sharing expertise in all thi
 - 🤔 I’m looking for help with resources (such as hands on tutorials) to understand machine learning model building and deployment.
 
 Learn more about my projects - 
-- Medium Articles - [Link.](https://clfo2014.medium.com/){target="_blank"} <a href="https://www.google.com" target="_blank">Google</a>
+- Medium Articles - <a href="[https://Link](https://clfo2014.medium.com/)." target="_blank">Link.</a>
 
 - Personal Portfolio - [Link.](https://clfo2014.medium.com/)
 

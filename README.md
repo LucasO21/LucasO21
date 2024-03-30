@@ -24,9 +24,9 @@ Learn more about my projects -
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaso21&show_icons=true&theme=radical)
 
 <p align="left">
-      <a href="https://github.com/LucasO21?tab=followers">
+     
          
-      <a href="https://github.com/LucasO21?tab=repositories&sort=stargazers">
+    
 
 
    </p>

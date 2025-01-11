@@ -41,7 +41,7 @@ Learn more about my projects -
   <!-- Programming Languages -->
   <img alt="SQL" height="40px" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img alt="Python" height="40px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img alt="R" height="40px" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=R&logoColor=white"/>
+  <img alt="R" height="40px" src="https://img.shields.io/badge/R-75AADB?style=for-the-badge&logo=R&logoColor=white"/>
   <img alt="Excel" height="40px" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img alt="Google Sheets" height="40px" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
 

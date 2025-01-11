@@ -37,29 +37,36 @@ Learn more about my projects -
 
 ### 🧰 Tech Toolbox
 
-<img align="left" alt="Python" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img align="left" alt="R" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
-<img align="left" alt="VSCODE" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img align="left" alt="FastAPI" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/>
-<img align="left" alt="Docker" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-<img align="left" alt="DBT" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <!-- Programming Languages -->
+  <img alt="SQL" height="40px" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img alt="Python" height="40px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img alt="R" height="40px" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=R&logoColor=white"/>
+  <img alt="Excel" height="40px" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img alt="Google Sheets" height="40px" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
 
-<img align="left" alt="Python" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img align="left" alt="R" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
-<img align="left" alt="VSCode" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img align="left" alt="FastAPI" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/>
-<img align="left" alt="Docker" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-<img align="left" alt="DBT" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-<img align="left" alt="AWS" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img align="left" alt="Streamlit" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img align="left" alt="Snowflake" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-<img align="left" alt="SQL" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img align="left" alt="Hex" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/Hex-F7B500?style=for-the-badge&logo=hex&logoColor=black"/>
-<img align="left" alt="Looker" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=googlelookerstudio&logoColor=white"/>
-<img align="left" alt="Git" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img align="left" alt="Jupyter" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img align="left" alt="Pandas" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img align="left" alt="NumPy" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <!-- IDEs -->
+  <img alt="VSCode" height="40px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img alt="Jupyter" height="40px" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img alt="Rstudio" height="40px" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/>
+  <img alt="Positron" height="40px" src="https://img.shields.io/badge/Positron-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"/>
+  <img alt="Git" height="40px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" height="40px" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <!-- Warehouse, Database -->
+  <img alt="DBT" height="40px" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img alt="Snowflake" height="40px" src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img alt="BigQuery" height="40px" src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+
+  <!-- Visualization -->
+  <img alt="Looker" height="40px" src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=googlelookerstudio&logoColor=white"/>
+  <img alt="Streamlit" height="40px" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img alt="Hex" height="40px" src="https://img.shields.io/badge/Hex-F7B500?style=for-the-badge&logo=hex&logoColor=black"/>
+  <img alt="R Shiny" height="40px" src="https://img.shields.io/badge/R%20Shiny-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"/>
+
+  <!-- Others -->
+  <img alt="AWS" height="40px" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</div>
 
 
 <br />
